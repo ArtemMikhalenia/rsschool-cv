@@ -1,8 +1,8 @@
-#The Rolling Scopes School CV
+# The Rolling Scopes School CV
 ---
-##Artem Mikhalenia
+## Artem Mikhalenia
 ---
-###Contacts
+### Contacts
 ---
 * ***Location:*** Minsk, Belarus
 * ***Phone:*** +375 29 761-85-83
@@ -10,11 +10,11 @@
 * ***Telegram:*** [artemmikhalenia](https://t.me/artemmikhalenia)
 * ***GitHub:*** [ArtemMikhalenia](https://github.com/ArtemMikhalenia)
 
-###About me
+### About me
 ---
 I am 27 years old and work as a team leader in an international company. I love challenges, which is why I decided to become part of the IT community. I am a dynamic and adaptable individual with a passion for creativity and problem-solving. I believe that teamwork is the power that helps us achieve great goals.
 
-###Skills
+### Skills
 ---
 * *HTML5*
 * *CSS3, SASS/SCSS, BEM*
@@ -24,7 +24,7 @@ I am 27 years old and work as a team leader in an international company. I love 
 * *Figma, Zeplin*
 * *Prepros*
 
-###Code Example
+### Code Example
 ---
 **CodeWars Kata:** Coding in function ***isolateIt***. Your task is to put a character "|" into the middle of each element. If the string length is an even number, use the insert method. If the string length is an odd number, use the replacement method. The original array should not be changed, you need to return a new array.
 
@@ -38,7 +38,7 @@ function isolateIt(arr) {
       }
 ```
 
-###Education
+### Education
 ---
 * Website Development with HTML, CSS & JavaScript (completed)
 ![Website Development with HTML, CSS & JavaScript](./images/Fd1.jpg)
@@ -47,7 +47,7 @@ function isolateIt(arr) {
 * JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
-###Languages
+### Languages
 ---
 * English - B2
 * Russian - Native
