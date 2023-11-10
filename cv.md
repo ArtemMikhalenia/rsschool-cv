@@ -16,13 +16,13 @@ I am 27 years old and work as a team leader in an international company. I love 
 
 ###Skills
 ---
-* **HTML5**
-* **CSS3, SASS/SCSS, BEM**
-* **JavaScript Basics**
-* **VS Code**
-* **Git, Github**
-* **Figma, Zeplin**
-* **Prepros**
+* *HTML5*
+* *CSS3, SASS/SCSS, BEM*
+* *JavaScript Basics*
+* *VS Code*
+* *Git, Github*
+* *Figma, Zeplin*
+* *Prepros*
 
 ###Code Example
 ---
