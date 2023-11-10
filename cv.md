@@ -24,3 +24,16 @@ I am 27 years old and work as a team leader in an international company. I love 
 * **Figma, Zeplin**
 * **Prepros**
 
+###Code Example
+---
+**CodeWars Kata:** Coding in function ***isolateIt***. Your task is to put a character "|" into the middle of each element. If the string length is an even number, use the insert method. If the string length is an odd number, use the replacement method. The original array should not be changed, you need to return a new array.
+
+```
+function isolateIt(arr) {
+         return arr.map((item) => {
+            item = item.split('');
+            (item.length % 2 !== 0) ? item.splice(item.length / 2, 1, '|') : item.splice(item.length / 2, 0, '|')
+            return item.join('');
+         });
+      }
+```
