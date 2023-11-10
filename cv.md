@@ -37,3 +37,12 @@ function isolateIt(arr) {
          });
       }
 ```
+
+###Education
+---
+* Website Development with HTML, CSS & JavaScript (completed)
+![Website Development with HTML, CSS & JavaScript](./images/Fd1.jpg)
+* Web Application Development with JavaScript (completed)
+![Web Application Development with JavaScript](./images/Fd2.jpg)
+* JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
