@@ -46,3 +46,9 @@ function isolateIt(arr) {
 ![Web Application Development with JavaScript](./images/Fd2.jpg)
 * JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/) (in progress)
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+###Languages
+---
+* English - B2
+* Russian - Native
+* Belarusian - Native
